@@ -6,6 +6,7 @@ wahaha
   wanmei
   
   PasswoRD
+  password
   
 
 php>
